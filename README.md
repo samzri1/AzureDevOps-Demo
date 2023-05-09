@@ -1,8 +1,8 @@
 # Introduction 
-This project is setup to demo the features of Azure DevOps. Each element is configured for demo purposes only. This repo is meant to be used for reference for the Azure DevOps: Zero to Hero Course - Available [here.](https://aka.ms/AzureDevOps/ZeroToHero)
+This project is setup to demo the features of Azure DevOps. Each element is configured for demo purposes only. 
 
 # Getting Started
-1. Follow along with the video: https://aka.ms/AzureDevOps/ZeroToHero  
+1. Hello
 2. Clone the repository
 3. Configure the Build pipeline with connectors to your preferred cloud service and Docker Registry. Azure Container Registry is the registry of choice that was used in this demo. A login and subscription to Azure is required.
 4. Build out your tasks using Azure Boards.
